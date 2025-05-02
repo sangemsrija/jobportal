@@ -8,8 +8,5 @@
 7. Now when a regualr user logsin, he can se the list of jobs that he can apply. When they click on apply here button then they can see the form to fill for that particular job. 
 8. After filling the application when user clicks on submit button then that application will be sent to admin page. 
 
-If i get two more days, i can complete the full-stack for this with all the necessary requirements. 
-for now, i have hard-coded the login page but later i can implement it dynamically using the bcrypt libraries. 
 
-Note: Unfortunately due to less time im unable to deploy but i have put the screenshots of it. Can you please consider those screenshots.
 
